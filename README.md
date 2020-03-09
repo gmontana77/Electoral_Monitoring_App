@@ -5,6 +5,7 @@
 [Auth0](https://auth0.com/)<br>
 [Express](https://expressjs.com/)<br>
 [Axios](https://github.com/axios/axios)<br>
+[styled-components](https://styled-components.com)<br>
 
 ## Available Scripts
 
