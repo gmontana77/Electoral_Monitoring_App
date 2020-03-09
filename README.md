@@ -22,8 +22,8 @@ You will need to register or o login with Auth0 with Gmail.
 
 Once logged in you can complete the survey about the election process.
 
-To see the Results, run Expresson the backend ### `node Server` at src/server
-Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+To see the Results of the survey, you need to run Express ### `node Server.js` at src/server
+Open [http://localhost:5000](http://localhost:5000) to view it in the browser, go back to see the results of the survey.
 
 
 
