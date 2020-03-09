@@ -1,7 +1,7 @@
 ## The Electoral Monitoring App was powered with
 
 [Create React App](https://github.com/facebook/create-react-app)<br>
-[Survey Creator](https://surveyjs.io/survey/Builder/)<br>
+[Survey Creator/Survey.js](https://surveyjs.io/survey/Builder/)/(https://surveyjs.io/Library)<br>
 [Auth0](https://auth0.com/)<br>
 [Express](https://expressjs.com/)<br>
 [Axios](https://github.com/axios/axios)<br>
