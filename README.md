@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with<br> 
+[Create React App](https://github.com/facebook/create-react-app).<br>
+[Survey Creator](https://surveyjs.io/survey/Builder/).<br>
+[Auth0](https://auth0.com/).<br>
+[Express](https://expressjs.com/).<br>
+[Axios](https://github.com/axios/axios).<br>
 
 ## Available Scripts
 
